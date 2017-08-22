@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+
+    <sections>
+        <section name="lastUpdate">Letztes Update</section>
+        <section name="personalData">Persönliche Daten</section>
+        <section name="school">Schulbildung</section>
+        <section name="languages">Sprachen</section>
+        <section name="university">Berufsausbildung</section>
+        <section name="furtherEducation">Weiterbildung</section>
+        <section name="courses">Kurse &amp; Zertifikate</section>
+        <section name="activities">Community &amp; Aktivitäten</section>
+        <section name="internship">Praktika</section>
+        <section name="work">Berufserfahrung</section>
+        <section name="project">Projekt Erfahrungen</section>
+        <section name="knowledge">Kenntnisse</section>
+        <section name="technology">Technologien</section>
+    </sections>
+
+
+    <name>Jonas Bandi</name>
+    <nameextensions>
+        <nameextension>jb (at) jonasbandi.net</nameextension>
+        <nameextension>www.blog.jonasbandi.net</nameextension>
+        <nameextension>twitter.com/jbandi</nameextension>
+    </nameextensions>
+
+    <maxim> Passionate about technology and methodologies - always trying to learn, improve and
+        share knowledge. </maxim>
+
+    <address>
+        <addresspart>Jonas Bandi</addresspart>
+        <addresspart>Bern, Switzerland</addresspart>
+        <addresspart> + 41 76 579 94 04</addresspart>
+        <email>jb (at) jonasbandi.net</email>
+        <web>www.jonasbandi.net</web>
+        <blog>blog.jonasbandi.net</blog>
+</address>
+
+    <personalData>
+        <items>
+            <item>
+                <title>Geburtsdatum</title>
+                <value>22 Dezember, 1976</value>
+            </item>
+            <item>
+                <title>Wohnort</title>
+                <value>Bern, Schweiz</value>
+            </item>
+        </items>
+    </personalData>
+
+    <school>
+        <items>
+            <item>
+                <title>1992-1997</title>
+                <value>Realgymnasium Bern-Kirchenfeld</value>
+            </item>
+            <item>
+                <title>20 Juni 1997</title>
+                <value>Matura Typus C</value>
+            </item>
+        </items>
+    </school>
+
+    <languages>
+        <items>
+            <item>
+                <title>Deutsch</title>
+                <value>Muttersprache</value>
+            </item>
+            <item>
+                <title>Englisch</title>
+                <value>Sehr gute Kenntnisse</value>
+            </item>
+            <item>
+                <title>Französisch</title>
+                <value>Gute Kenntnisse</value>
+            </item>
+            <item>
+                <title>Italienisch</title>
+                <value>Basiskenntnisse</value>
+            </item>
+        </items>
+    </languages>
+
+    <university>
+        <items>
+            <item>
+                <title>1997-2002</title>
+                <value>
+                    <subitem>Studium der Elektrotechnik an der ETH Zürich.</subitem>
+                    <subitem>Schwerpunkte in:</subitem>
+                    <list>
+                        <listitem>Kommunikationstechnik</listitem>
+                        <listitem>Integrierte Systeme</listitem>
+                    </list>
+                    <subitem>Semester und Diplomarbeiten:</subitem>
+                    <list>
+                        <listitem>Realisierung eines Kommunikations-Prozessors (BodyCom) auf einem digitalen ASIC</listitem>
+                        <listitem>Realisierung eines MP3-Processors auf einem digitalen ASIC</listitem>
+                        <listitem>Erweiterung eines Networkstacks für IPv6</listitem>
+                        <listitem>Hardware-Entwicklung für ein digitales Metronom </listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>19. April 2002</title>
+                <value>Diplom als Elektroingenieur ETH</value>
+            </item>
+        </items>
+    </university>
+
+    <furtherEducation>
+        <items>    
+            <item>
+                <title>September 2011 – Oktober 2013 (berufsbegleitend) </title>
+                <value>Master of Advanced Studies in Management, Technology and Economics / BWI at ETH Zürich (www.mas-mtec.ethz.ch) </value>
+            </item>	
+            <item>
+                <title>Oktober 2006 – März 2007 (berufsbegleitend) </title>
+                <value>Nachdiplomskurs (CAS) in 'Enterprise Development with J2EE' an der Hochschule für
+                    Technik und Informatik HTI in Bern </value>
+            </item>
+            <item>
+                <title>November 2003 – März 2005 (berufsbegleitend) </title>
+                <value>Berufsbegleitender Nachdiplomskurs (NDK) am Departement für Informatik der
+                    ETH Zürich </value>
+            </item>
+        </items>                       
+    </furtherEducation>
+
+
+    <courses>
+        <items>
+            <item>
+                <title>Juli 2012</title>
+                <value>Social Media kompakt, 1-tägiger Kurs von btools.ch</value>
+            </item>   
+            <item>
+                <title>März 2012</title>
+                <value>Internet Marketing mit Google Tools, 1-tägiger Kurs von btools.ch</value>
+            </item>               
+            <item>
+                <title>März 2012</title>
+                <value>Angewandtes Projektmanagement, 2-tägiges Training MTEC ETH</value>
+            </item>             
+            <item>
+                <title>Dezember 2011</title>
+                <value>Presentation Skills &amp; Public Speaking, 2-tägiges Training von descubris.ch</value>
+            </item>
+            <item>
+                <title>Februar 2011</title>
+                <value>Microsoft TS: Visual Studio Team Foundation Server 2010, Administration</value>
+            </item>            
+            <item>
+                <title>Juli 2010</title>
+                <value>Professional Scrum Master I und II (Scrum.org), Zertifizierungen</value>
+            </item>
+            <item>
+                <title>Juni 2010</title>
+                <value>Scrum in Depth (Scrum.org), Kurs (2 Tage)</value>
+            </item>
+            <item>
+                <title>Juni 2010</title>
+                <value>Professional Scrum Developer .NET (Scrum.org), Kurs &amp; Zertifizierung (5 Tage)</value>
+            </item>
+            <item>
+                <title>October 2009</title>
+                <value>Certified Scrum Master (Scrum Alliance) &amp; Agile Requirements Engineering, Kurse (3 + 1 Tage)</value>
+            </item>
+            <item>
+                <title>Februar 2009</title>
+                <value>Sun Certified Enterprise Architect for the Java Platform, Enterprise Edition 5</value>
+            </item>     
+            <item>
+                <title>Februar 2009</title>
+                <value>ISTQB Certified Software Tester Foundation Level</value>
+            </item>         
+            <item>
+                <title>November 2008</title>
+                <value>Kurs 'Rational Unified Process (RUP)' bei Zühlke AG (2 Tage)</value>
+            </item>      
+            <item>
+                <title>November 2008</title>
+                <value>SAQ Certified Professional for Requirements Engineering (Foundation Level)</value>
+            </item>  
+            <item>
+                <title>November 2008</title>
+                <value>Kurs 'Requirements Engineering' bei Zühlke AG (3 Tage)</value>
+            </item>  
+            <item>
+                <title>Juni 2008</title>
+                <value>Workshop Google Web Toolkit (GWT) bei Zühlke AG (1 Tag)</value>
+            </item> 
+			<item>
+                <title>Februar 2008</title>
+                <value>Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0 </value>
+            </item>
+            <item>
+                <title>Februar 2005</title>
+                <value>Kurs 'Enterprise Applications with ADO.NET' bei Trivadis AG, Zürich (3
+                Tage)</value>
+            </item>
+            <item>
+                <title>September 2004</title>
+                <value>Firmeninternes Seminar 'Projektmanagement' bei Super Computing Systems AG,
+                    Zürich</value>
+            </item>
+            <item>
+                <title>August 2004</title>
+                <value>Firmeninternes Seminar 'Konfliktmanagement' bei Super Computing Systems AG,
+                    Zürich</value>
+            </item>
+            <item>
+                <title>Juni 2003</title>
+                <value>Firmeninternes Seminar 'Zeit- und Stressmanagement' bei Super Computing
+                    Systems AG, Zürich</value>
+            </item>                                                  
+        </items>
+    </courses>
+
+    <activities>
+    	<items>
+    	    <item>
+                <title>Regelmässiges Halten von Workshops und Vorträgen</title>
+                <value>Norwegian Developer Conference 2011, Micorsoft MSDN Events, /ch/open Workshop-Days, SBB Developer Days, Hanselminutes Podcast, DevCamp Vienna, SAQ TesterForum, See#Party Konstanz, .Net User Group Bern, Entwicklertreffen Bern, SkillsMatter London.
+                <list>
+                     <listitem>Siehe: http://site.jonasbandi.net/speaking</listitem>
+                </list>
+                </value>
+            </item>
+       	    <item>
+                <title>Regelmässiger Besuch von Konferenzen</title>
+                <value>/ch/open Workshop-Days, SET Zürich, DevCamp Vienna, Gr8Conf Copenhagen, REConf Zürich, See#Party Konstanz, SkillsMatter London, Norwegian Developer Conference</value>
+            </item>
+       	    <item>
+                <title>Teilnahme in User Groups</title>
+                <value>.Net User Group Bern, Java User Group Switzerland</value>
+            </item>            
+            <item>
+                <title>Open Source</title>
+                <value>Co-founder und Committer von SpecFlow (www.specflow.org)</value>
+            </item>
+            <item>
+                <title>Book Reviewer</title>
+                <value>Regelmässiges Review von neuen Manuskripten für Manning Publications</value>
+            </item>            
+            <item>
+                <title>Blog &amp; Twitter</title>
+                <value>Meine Gedanken zu IT-Themen auf http://blog.jonasbandi.net und twitter.com/jbandi</value>
+            </item>
+            <item>
+                <title>App Store</title>
+                <value>Mitbegründer von IvoryCode GmbH, Author der the App "Myco" (verfügbar im iTunes Store)</value>
+            </item>
+    	</items>
+    </activities>
+
+    <internship>
+        <items>
+            <item>
+                <title>Frühling 1998</title>
+                <value>Sechswöchiger Werkstattgrundkurs (Grundkenntnisse in der mechanischen und
+                    elektronischen Fertigung) bei Ascom, Bern.</value>
+            </item>
+            <item>
+                <title>Juli-Oktober 2000</title>
+                <value>
+                    <subitem>Praktikum als Softwareentwickler bei Inalp AG, Bern:</subitem>
+                    <list>
+                        <listitem>Produktentwicklung für Voice-Over-IP</listitem>
+                    </list>
+                </value>
+            </item>
+        </items>
+    </internship>
+
+    <work>
+        <items>      
+            
+            <item>
+                <title>seit Oktober 2014</title>
+                <value>
+                    <subitem>Senior Developer, Consultant and Teacher bei IvoryCode GmbH</subitem>
+                    <list>
+                        <listitem>Moderne Frontend-Entwicklung im Enterprise-Umfeld.</listitem>
+                        <listitem>Unterichten von Kursen und Coaching von Teams im Bereich JavaScript und AngularJS.</listitem>
+                        <listitem>Aufsetzen und Review von Projekten mit modernen Frontend-Technologien.</listitem>
+                    </list>
+                </value>
+            </item>
+  
+            <item>
+                <title>seit 2007</title>
+                <value>
+                    <subitem>Gastdozent an der Berner Fachochschule</subitem>
+                    <list>
+                        <listitem>Durchführung der Unterrichtsblöcke "JavaScript", "Frameworks", "HTML5" (11 Tage pro Semester) des CAS "Applikationsentwicklung mit JavaScript und HTML5" (HTML5)</listitem>
+                        <listitem>Durchführung des Unterrichtsblocks "Web und HTML5" (2 Tage pro Semester) des CAS "Mobile Application Development" (MAD)</listitem>
+                        <listitem>Durchführung einer Vorlesung (1.5 Tage pro Semester) über "Java EE Testing". Teil des CAS "Enterprise Application Development with JavaEE" (EADJ)</listitem>
+                    </list>
+                </value>
+            </item>     
+            <item>
+                <title>Juli 2012 - Oktober 2014</title>
+                <value>
+                    <subitem>Principal Architect bei CompuGroup Medical Schweiz AG</subitem>
+                    <list>
+                        <listitem>Produktentwicklung, Klinisches Informationssystem</listitem> 
+                    </list>
+                </value>
+            </item>      
+                
+            <item>
+                <title>Oktober 2009 - Juli 2012</title>
+                <value>
+                    <subitem>Software Architect bei TechTalk Software AG</subitem>
+                    <list>
+                        <listitem>Spezifikation, Design und Implementation von Softwaresystemen im .Net-Umfeld</listitem>
+                        <listitem>Couching und Durchführung von Workshops für Kunden (Scrum, TDD, BDD)</listitem>
+                        <listitem>Presales und Sales Unterstützung</listitem>
+                    </list>
+                </value>
+            </item>                        
+            <item>
+                <title>Januar 2009 - August 2009 </title>
+                <value>
+                    <subitem>Software Architect bei Zühlke Engineering AG</subitem>
+                    <list>
+                        <listitem>Realisierung von Lösungen im Java-Enterprise-Umfeld.</listitem>
+                    </list>
+                </value>
+            </item>                      
+            <item>
+                <title>Februar 2008 - December 2009</title>
+                <value>
+                    <subitem>Software Engineer bei Zühlke Engineering AG</subitem>
+                    <list>
+                        <listitem>Realisierung von Lösungen im Java-Enterprise-Umfeld.</listitem>
+                    </list>
+                </value>
+            </item>                       
+            <item>
+                <title>Dezember 2006 – Januar 2008 (befristeter Vertrag) </title>
+                <value>
+                    <subitem>Softwareentwickler bei M&amp;S AG, Bern</subitem>
+                    <list>
+                        <listitem>Entwicklung eines Gesamtinformationssystems für
+                        Pensionskassen.</listitem>
+                    </list>
+                </value>
+            </item>                  
+            <item>
+                <title>Mai 2002 – November 2006 </title>
+                <value>
+                    <subitem>Entwicklungsingenieur bei Super Computing Systems AG, Zürich.</subitem>
+                    <list>
+                        <listitem>Spezifikation, Design und Implementation von Hard- und
+                            Softwaresystemen</listitem>
+                        <listitem>Spezialisierung in Richtung Enterprise-Applications</listitem>
+                    </list>
+                </value>
+            </item>                                
+            <item>
+                <title>Februar 2001 – April 2002 (teilzeit) </title>
+                <value>
+                    <subitem>Softwareentwickler bei media-streams.com ag, Zürich:</subitem>
+                    <list>
+                        <listitem>Teilzeitstelle 40% parallel zum Studium</listitem>
+                        <listitem>Produktentwicklung für Voice-Over-IP</listitem>
+                    </list>
+                </value>
+            </item>
+        </items>
+    </work>
+
+    <project>
+	    <items>
+           <item>
+                <title>Senior Developer / Erweiterung einer inhouse Enterprise Applikation</title>
+                <value>
+                    <list>                    
+                        <listitem>Erneuerung einer legacy inhouse Applikation (JavaEE)</listitem>   
+                        <listitem>Definition und Aufsetzen der Architektur und des Entwicklung-Stacks für ein Web-Frontend</listitem>   
+                        <listitem>Umsetzung des Web-Frontends und der REST-Schnittstellen</listitem>
+                        <listitem>Technologien: JavaScript (ECMAScript 2015), React, Flux (Alt.js), JavaEE, JBoss, JAX-RS</listitem>   
+                        <listitem>Kunde: Prodega / Transgourmet</listitem>   
+                        <listitem> April 2015 - aktuell</listitem>
+                    </list>
+                </value>
+           </item>    
+           <item>
+                <title>Senior Developer/Architect in einem Web-Startup Projekt</title>
+                <value>
+                    <list>                    
+                        <listitem>Produktentwicklung mit einem Startup</listitem>   
+                        <listitem>Definition und Aufsetzen der Architektur und des Entwicklung-Stacks</listitem>   
+                        <listitem>Umsetzung des ersten Produkt-Releases</listitem>
+                        <listitem>Technologien: JavaScript, AngularJS, .NET, Windows Azure</listitem>   
+                        <listitem>Kunde: Softfactors.com</listitem>   
+                        <listitem>Oktober 2014 - März 2015</listitem>
+                    </list>
+                </value>
+            </item>   
+            <item>
+                <title>Software Architect eines klinisches Informationssystems</title>
+                <value>
+                    <list>                    
+                        <listitem>Produktentwicklung und Modernisierung</listitem>   
+                        <listitem>Koordination in einem verteilten Umfeld mit Teams in der Schweiz, Österreich, Deutschland und Polen</listitem>   
+                        <listitem>Java EE, JBoss, Spring, Eclipse RCP, Flex</listitem>   
+                        <listitem> August 2012 - Oktober 2014</listitem>
+                    </list>
+                </value>
+            </item>              
+            <item>
+                <title>Architekt für eine neue statistische Erhebungs-Applikation</title>
+                <value>
+                    <list>                    
+                        <listitem> Requirements engineering und platform engineering</listitem>
+                        <listitem> Definition von Technologien und der Architektur </listitem>
+                        <listitem> Schreiben von Spezifikationen nach Hermes</listitem>
+                        <listitem> Definition von Schnittstellen mit Umsystemen</listitem>
+                        <listitem> Implementation eines Proof of Concept </listitem>
+                        <listitem> Kunde: Bundesamt für Informatik (BIT) und Bundesamt für Statistik (BFS)</listitem>
+                        <listitem> März 2012 - August 2012</listitem>
+                    </list>
+                </value>
+            </item>             
+	        <item>
+	            <title>Anpassung einer grossen Team Foundation Server (TFS) Installation an den kundenspezifischen Software Delivery Prozess </title>
+	            <value>
+	                <list>
+	                    <listitem> Integration von Java/Eclipse/Maven mit TFS</listitem>		
+	                    <listitem> Kundenspezifische Anpassungen der Scrum Process Template</listitem>
+	                    <listitem> Design und Implementation von neuen kundenspezifischen Reports (TFS 2010, SSRS, SQL)</listitem>
+	                    <listitem> Design und Implementation von kundenspezifischen Projekt Dashboards (TFS 2010, SharePoint)</listitem>
+	                    <listitem> Design und Implementation von kundenspezifischen SharePoint WebParts</listitem>
+	                    <listitem> Kunde: Bundesamt für Informatik (BIT)</listitem>
+	                    <listitem> Juli 2011 - März 2012</listitem>
+	                </list>
+	            </value>
+	        </item>  
+	        <item>
+	            <title>Pre-Sale Aktivitäten and Entwicklung von technischen Spezifikationen für verschiedene Projekte</title>
+	            <value>
+	                <list>
+	                    <listitem> Schnittstelle zwischen verschiedenen Kunden und near-shore Entwicklungs-Teams</listitem>
+	                    <listitem> Requirements Engineering und Platform Engineering</listitem>
+	                    <listitem> Definition von Technologien and Architekturen für neue Projekte</listitem>
+	                    <listitem> .NET and Java EE Projekte</listitem>
+	                    <listitem> Juli 2011 - present</listitem>
+	                </list>
+	            </value>
+	        </item>	
+	        <item>
+	            <title>Durchführung von Workshops für verschiedene Kunden-Teams</title>
+	            <value>
+	                <list>
+	                    <listitem> Agile Development Practices: TDD und BDD</listitem>	
+	                    <listitem> Technische Workshops zur Einführung von neuen Technologien (NUnit, MSBuild, TeamCity, ReSharper ...)</listitem>
+	                    <listitem> Scrum und Agile Software Entwicklung, Agile Requirements Engineering</listitem>
+	                    <listitem> Mehrere Events im 2010 und 2011</listitem>
+	                </list>
+	            </value>
+	        </item>
+           <item>
+                <title>Entwicklung eines neuen Web-Frontends für eine Legacy Applikation zum Verwalten von Versicherungsdaten</title>
+                <value>
+                    <list>
+                        <listitem> UI-Konzeption, Evaluation und Konzeption der Anbindung an das Legacy-Backend</listitem>
+                        <listitem> Implementation des neuen User Interfaces</listitem>
+                        <listitem> .NET 4.0 , ASP.NET, HTML, CSS, JavaScript, jQuery </listitem>
+                        <listitem> Kunde: Grosser Schweizer Versicherer</listitem>
+                        <listitem> November 2010 - Juni 2011</listitem>
+                    </list>
+                </value>
+            </item>  
+           <item>
+                <title>Entwicklung der Orchestration eines komplexen workflowbasierten Daten-Management-Systems</title>
+                <value>
+                    <list>
+                        <listitem> Design, Implementation und Verifikation von Workflow- and Orchestration-Komponenten</listitem>
+                        <listitem> Erweiterung und Unterhalt existierender Komponenten</listitem>
+                        <listitem> .NET 3.5, Oracle, WCF, ASP.NET, SAS, Informatica PowerCenter</listitem>
+                        <listitem> Kunde: Bundesamt für Statistik</listitem>
+                        <listitem> März 2010 - Juni 2011</listitem>
+                    </list>
+                </value>
+            </item>             
+            <item>
+                <title>System für die Planung und Administration von Schulen</title>
+                <value>
+                    <list>
+                        <listitem> Ablösung einer Legacy Access Applikation</listitem>
+                        <listitem> WPF, .NET 3.5, Offline-Client, Sqlite, SQL Server 2008</listitem>
+                        <listitem> Kunde: Österreichische Landesregierung</listitem>
+                        <listitem> Oktober 2009 - März 2010</listitem>
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Migration des Builds einer produktiven legacy Applikation von Ant auf Maven</title>
+                <value>
+                    <list>
+                        <listitem> Grosser, organisch gewachsener legacy Build</listitem>
+                        <listitem> J2EE, EJB 2.1, WebLogic, Oracle</listitem>
+                        <listitem> Grosses produktives System in einem heterogenen Enterprise Umfeld </listitem>
+                        <listitem> Kunde: PostFinance - Projekt: EPA</listitem>    
+                        <listitem> Juni 2009 - August 2009</listitem>                    
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Implementierung eines neuen Reports für Kunden in einer bestehenden Finanzapplikaton</title>
+                <value>
+                    <list>
+                        <listitem> Kommunikation über ESB/JMS mit der Print-Applikation</listitem>
+                        <listitem> Erstellung von XML-Dokumenten mit JAXB, XSD</listitem>
+                        <listitem> Spring, WebLogic, Oracle</listitem>
+                        <listitem> Grosses produktives System in einem heterogenen Enterprise Umfeld </listitem>
+                        <listitem> Kunde: PostFinance - Projekt: AQS</listitem>        
+                        <listitem> Februar 2008 - Juni 2009</listitem>                  
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Erweiterung einer bestehenden Finanzapplikaton mit einer neuen Schnittstelle</title>
+                <value>
+                    <list>
+                        <listitem> Kommunikation über die EP2 Schnittstelle</listitem>
+                        <listitem> J2EE, EJB 2.1, WebLogic, Oracle</listitem>
+                        <listitem> Grosses produktives System in einem heterogenen Enterprise Umfeld </listitem>
+                        <listitem> Kunde: PostFinance - Projekt: EPA</listitem>      
+                        <listitem> Juni 2008 - Februar 2009</listitem>
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Logistikanwendung zur Verwaltung von Druckaufträgen</title>
+                <value>
+                    <list>
+                        <listitem> Java Web Anwendung auf Sun Glassfish, Oracle </listitem>
+                        <listitem> SCRUM als Entwicklungsprozess</listitem>
+                        <listitem> Anwendung von Model Driven Software Development (MDSD) </listitem>
+                        <listitem> Integration von Legacy-Anwendungen</listitem>
+                        <listitem> Kunde: SBB (Schweizer Bahn)</listitem>  
+                        <listitem> Februar 2008 - Juni 2009</listitem>                        
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Gesamtlösung für Pensionskassen</title>
+                <value>
+                    <list>
+                        <listitem> 3 Tier Web Architecture </listitem>
+                        <listitem> Prozessorientierte, browserbasierte Intranetlösung mit
+                            B2B-Möglichkeiten</listitem>
+                        <listitem> Programmierung mit einem schwergewichtigen Framework </listitem>
+                        <listitem> Integration von Legacy-Anwendungen</listitem>
+                        <listitem> Datenzentriertes Design, basierend auf .NET-DataSets</listitem>
+                        <listitem> Dezember 2006 - Januar 2008</listitem>                        
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Betreuung von Praktikanten und Diplomanden</title>
+                <value>
+                    <list>
+                        <listitem>Ausarbeitung von Aufgabenstellungen </listitem>
+                        <listitem>Einführung in Arbeiten und Hilfeleistung wärend der Arbeiten</listitem>
+                        <listitem>Überprüfung, Reviews und Benotung der Arbeiten</listitem>
+                    </list>
+                </value>
+            </item>            
+         
+            <item>
+                <title> Digitales Archivsystem für eine Fernsehstation</title>
+                <value>
+                    <list>
+                        <listitem> Multi-Millionen Projekt in Zusammenarbeit mit IBM </listitem>
+                        <listitem> Presale: Zeitabschätzung, Mitarbeit an Offerte,
+                            Anforderungsanalyse </listitem>
+                        <listitem> Analyse von Business-Abläufen und Erarbeitung von Lösungen </listitem>
+                        <listitem> Workshops und Verhandlungen mit Kunde (IT, Benutzer, Management) </listitem>
+                        <listitem> Entwicklung kreativer Konzepte</listitem>
+                        <listitem> Evaluation von Technologien </listitem>
+                        <listitem> Konzeption von GUIs</listitem>
+                        <listitem> Detailspezifikation</listitem>
+                        <listitem> Entwurf der SW-Architektur und SW-Design</listitem>
+                        <listitem> Implementation und Umsetzung der Software </listitem>
+                        <listitem> Intensives Testing und Bugfixing </listitem>
+                        <listitem> Zusammenarbeit mit Outsourcing-Partnern </listitem>
+                        <listitem> Zusammenarbeit mit externem Testing- und QA-Team </listitem>
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Setupstation für Qualitätskontrolle für Webmaschinen (On-Loom)</title>
+                <value>
+                    <list>
+                        <listitem> Presale: Zeitabschätzung, Mitarbeit bei Offerte,
+                            Anforderungsanalyse</listitem>
+                        <listitem> Analyse von Business-Abläufen, Erarbeitung von Lösungen</listitem>
+                        <listitem>Workshops und Verhandlungen mit Kunde (IT, Benutzer, Management) </listitem>
+                        <listitem>Entwicklung des Systemkonzepts </listitem>
+                        <listitem> Detailspezifikation</listitem>
+                        <listitem> Konzeption von GUIs </listitem>
+                        <listitem> SW-Architektur, SW-Design</listitem>
+                        <listitem> SW-Implementation und Testing</listitem>
+                        <listitem> SW-Integration und Abnahme beim Kunden </listitem>
+                    </list>
+                </value>
+            </item>                        
+            <item>
+                <title>Datenbank für Programmplanung bei SFDRS, Erweiterung</title>
+                <value>
+                    <list>
+                        <listitem>Implementation eines Moduls</listitem>
+                        <listitem>Kontrolle bestehender Detailspezifikation</listitem>
+                        <listitem>Einarbeitung in bestehendes Framework</listitem>
+                        <listitem>Integration in ein bestehendes System</listitem>
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Steuerungsplatform für Webmaschinen</title>
+                <value>
+                    <list>
+                        <listitem> Anforderungsanalyse </listitem>
+                        <listitem> Grobspezifikation </listitem>
+                        <listitem>Detailspezifikation</listitem>
+                        <listitem> Workshops und Verhandlungen mit Kunde</listitem>
+                        <listitem> Entwicklung des Systemkonzepts</listitem>
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Grob- und Detailspezifikation für SwissTXT News Production System</title>
+                <value>
+                    <list>
+                        <listitem> Workshop und Verhandlung mit Kunden auf verschiedenen Ebenen (IT,
+                            Benutzer, Mangement)</listitem>
+                        <listitem> Analyse der Businesss-Abläufe beim Kunden und Definition von
+                            Lösungen</listitem>
+                        <listitem> Ausführliche Dokumentation</listitem>
+                        <listitem> Entwicklung von Prototypen </listitem>
+                        <listitem> Konzeption von GUIs </listitem>
+                        <listitem> Analyse bestehender Systeme und Entwicklung von Konzepten für die
+                            Integration neuer Systeme </listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Hochsicherheits-Computer für ein Flugzeug</title>
+                <value>
+                    <list>
+                        <listitem> Entwicklung einer automatisierten Testumgebung für die
+                            Verifikation der Firmware</listitem>
+                        <listitem> Überprüfung der Dokumentation</listitem>
+                    </list>
+                </value>
+            </item>            
+            <item>
+                <title>Qualitätssortierer für organische Stoffe</title>
+                <value>
+                    <list>
+                        <listitem> Detailspezifikation</listitem>
+                        <listitem> Funktionsmuster</listitem>
+                        <listitem> Hardware/Software-Codesign </listitem>
+                    </list>
+                </value>
+            </item>            
+             <item>
+                <title>Entwicklung von VOIP-Produkten (e-phone)</title>
+                <value>
+                    <list>
+                        <listitem> OO-Design und Patterns </listitem>
+                        <listitem> C++/MFC mit Visual Studio </listitem>
+                        <listitem> Spezifikation, Design und Test von Protokoll-Erweiterungen</listitem>
+                        <listitem> Spezifikation, Design und Test von Erweiterungen des bestehenden
+                            Produkts </listitem>
+                    </list>
+                </value>
+            </item>                       
+            <item>
+                <title>Entwicklung eines Netzwerkprotokoll-Stacks für SIP </title>
+                <value>
+                    <list>
+                        <listitem> C/C++ mit Visual Studio </listitem>
+                        <listitem> EBNF-Spezifikation </listitem>
+                        <listitem> Parser-Generierung mit Lex und Bison</listitem>
+                        <listitem> Erstellen einer Testumgebung</listitem>
+                    </list>
+                </value>
+            </item>
+        </items>
+    </project>
+
+    <knowledge>
+        <list>
+            <listitem> Agile, Scrum , XP </listitem>
+            <listitem> Workshops and negotiations with customers </listitem>
+            <listitem> Leading junior developers </listitem>
+            <listitem> Writing specifications and time/effort estimations </listitem>
+            <listitem> Collaboration with outsourcing partners </listitem>            
+            <listitem> Object-Oriented Analysis &amp; Design </listitem>
+            <listitem> Classic OO-Design Patterns, Domain Driven Design, Patterns for Enterprise Applications</listitem>
+            <listitem> Enterprise-Architectures </listitem>
+            <listitem> Test Driven Development, Behavior Driven Development, Specification by Example </listitem>
+            <listitem> Continuous Integration </listitem>
+        </list>
+    </knowledge>
+
+    <technology>
+        <list>
+            <listitem> JavaScript / ECMAScript 2015 / TypeScript </listitem> 
+            <listitem> .NET / C# </listitem>
+            <listitem> Java / Java EE </listitem>
+            <listitem> SQL / T-SQL / PL-SQL </listitem>
+            <listitem> iOS / Objective-C</listitem>
+        </list>
+    </technology>
+</cv>
