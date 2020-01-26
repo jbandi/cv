@@ -112,11 +112,11 @@
     </university>
 
     <furtherEducation>
-        <items>    
+        <items>
             <item>
                 <title>September 2011 – Oktober 2013 (berufsbegleitend) </title>
                 <value>Master of Advanced Studies in Management, Technology and Economics / BWI at ETH Zürich (www.mas-mtec.ethz.ch) </value>
-            </item>	
+            </item>
             <item>
                 <title>Oktober 2006 – März 2007 (berufsbegleitend) </title>
                 <value>Nachdiplomskurs (CAS) in 'Enterprise Development with J2EE' an der Hochschule für
@@ -127,7 +127,7 @@
                 <value>Berufsbegleitender Nachdiplomskurs (NDK) am Departement für Informatik der
                     ETH Zürich </value>
             </item>
-        </items>                       
+        </items>
     </furtherEducation>
 
 
@@ -136,15 +136,15 @@
             <item>
                 <title>Juli 2012</title>
                 <value>Social Media kompakt, 1-tägiger Kurs von btools.ch</value>
-            </item>   
+            </item>
             <item>
                 <title>März 2012</title>
                 <value>Internet Marketing mit Google Tools, 1-tägiger Kurs von btools.ch</value>
-            </item>               
+            </item>
             <item>
                 <title>März 2012</title>
                 <value>Angewandtes Projektmanagement, 2-tägiges Training MTEC ETH</value>
-            </item>             
+            </item>
             <item>
                 <title>Dezember 2011</title>
                 <value>Presentation Skills &amp; Public Speaking, 2-tägiges Training von descubris.ch</value>
@@ -152,7 +152,7 @@
             <item>
                 <title>Februar 2011</title>
                 <value>Microsoft TS: Visual Studio Team Foundation Server 2010, Administration</value>
-            </item>            
+            </item>
             <item>
                 <title>Juli 2010</title>
                 <value>Professional Scrum Master I und II (Scrum.org), Zertifizierungen</value>
@@ -172,27 +172,27 @@
             <item>
                 <title>Februar 2009</title>
                 <value>Sun Certified Enterprise Architect for the Java Platform, Enterprise Edition 5</value>
-            </item>     
+            </item>
             <item>
                 <title>Februar 2009</title>
                 <value>ISTQB Certified Software Tester Foundation Level</value>
-            </item>         
+            </item>
             <item>
                 <title>November 2008</title>
                 <value>Kurs 'Rational Unified Process (RUP)' bei Zühlke AG (2 Tage)</value>
-            </item>      
+            </item>
             <item>
                 <title>November 2008</title>
                 <value>SAQ Certified Professional for Requirements Engineering (Foundation Level)</value>
-            </item>  
+            </item>
             <item>
                 <title>November 2008</title>
                 <value>Kurs 'Requirements Engineering' bei Zühlke AG (3 Tage)</value>
-            </item>  
+            </item>
             <item>
                 <title>Juni 2008</title>
                 <value>Workshop Google Web Toolkit (GWT) bei Zühlke AG (1 Tag)</value>
-            </item> 
+            </item>
 			<item>
                 <title>Februar 2008</title>
                 <value>Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0 </value>
@@ -216,7 +216,7 @@
                 <title>Juni 2003</title>
                 <value>Firmeninternes Seminar 'Zeit- und Stressmanagement' bei Super Computing
                     Systems AG, Zürich</value>
-            </item>                                                  
+            </item>
         </items>
     </courses>
 
@@ -237,7 +237,7 @@
        	    <item>
                 <title>Teilnahme in User Groups</title>
                 <value>.Net User Group Bern, Java User Group Switzerland</value>
-            </item>            
+            </item>
             <item>
                 <title>Open Source</title>
                 <value>Co-founder und Committer von SpecFlow (www.specflow.org)</value>
@@ -245,7 +245,7 @@
             <item>
                 <title>Book Reviewer</title>
                 <value>Regelmässiges Review von neuen Manuskripten für Manning Publications</value>
-            </item>            
+            </item>
             <item>
                 <title>Blog &amp; Twitter</title>
                 <value>Meine Gedanken zu IT-Themen auf http://blog.jonasbandi.net und twitter.com/jbandi</value>
@@ -277,41 +277,40 @@
     </internship>
 
     <work>
-        <items>      
-            
+        <items>
+
             <item>
                 <title>seit Oktober 2014</title>
                 <value>
                     <subitem>Senior Developer, Consultant and Teacher bei IvoryCode GmbH</subitem>
                     <list>
                         <listitem>Moderne Frontend-Entwicklung im Enterprise-Umfeld.</listitem>
-                        <listitem>Unterichten von Kursen und Coaching von Teams im Bereich JavaScript und AngularJS.</listitem>
+                        <listitem>Unterrichten von Kursen und Coaching von Teams im Bereich JavaScript, Angular, React und Vue.</listitem>
                         <listitem>Aufsetzen und Review von Projekten mit modernen Frontend-Technologien.</listitem>
                     </list>
                 </value>
             </item>
-  
+
             <item>
                 <title>seit 2007</title>
                 <value>
                     <subitem>Gastdozent an der Berner Fachochschule</subitem>
                     <list>
-                        <listitem>Durchführung der Unterrichtsblöcke "JavaScript", "Frameworks", "HTML5" (11 Tage pro Semester) des CAS "Applikationsentwicklung mit JavaScript und HTML5" (HTML5)</listitem>
-                        <listitem>Durchführung des Unterrichtsblocks "Web und HTML5" (2 Tage pro Semester) des CAS "Mobile Application Development" (MAD)</listitem>
-                        <listitem>Durchführung einer Vorlesung (1.5 Tage pro Semester) über "Java EE Testing". Teil des CAS "Enterprise Application Development with JavaEE" (EADJ)</listitem>
+                        <listitem>Durchführung der Kurse "JavaScript" und "Frameworks" (11 Tage pro Semester) im CAS "Applikationsentwicklung mit JavaScript und HTML5" (HTML5)</listitem>
+                        <listitem>Durchführung des Kurses "Frontend" (4.5 Tage pro Semester) im CAS JMD "Java Microservice Development" (JMD)</listitem>
                     </list>
                 </value>
-            </item>     
+            </item>
             <item>
                 <title>Juli 2012 - Oktober 2014</title>
                 <value>
                     <subitem>Principal Architect bei CompuGroup Medical Schweiz AG</subitem>
                     <list>
-                        <listitem>Produktentwicklung, Klinisches Informationssystem</listitem> 
+                        <listitem>Produktentwicklung, Klinisches Informationssystem</listitem>
                     </list>
                 </value>
-            </item>      
-                
+            </item>
+
             <item>
                 <title>Oktober 2009 - Juli 2012</title>
                 <value>
@@ -322,7 +321,7 @@
                         <listitem>Presales und Sales Unterstützung</listitem>
                     </list>
                 </value>
-            </item>                        
+            </item>
             <item>
                 <title>Januar 2009 - August 2009 </title>
                 <value>
@@ -331,7 +330,7 @@
                         <listitem>Realisierung von Lösungen im Java-Enterprise-Umfeld.</listitem>
                     </list>
                 </value>
-            </item>                      
+            </item>
             <item>
                 <title>Februar 2008 - December 2009</title>
                 <value>
@@ -340,7 +339,7 @@
                         <listitem>Realisierung von Lösungen im Java-Enterprise-Umfeld.</listitem>
                     </list>
                 </value>
-            </item>                       
+            </item>
             <item>
                 <title>Dezember 2006 – Januar 2008 (befristeter Vertrag) </title>
                 <value>
@@ -350,7 +349,7 @@
                         Pensionskassen.</listitem>
                     </list>
                 </value>
-            </item>                  
+            </item>
             <item>
                 <title>Mai 2002 – November 2006 </title>
                 <value>
@@ -361,7 +360,7 @@
                         <listitem>Spezialisierung in Richtung Enterprise-Applications</listitem>
                     </list>
                 </value>
-            </item>                                
+            </item>
             <item>
                 <title>Februar 2001 – April 2002 (teilzeit) </title>
                 <value>
@@ -376,48 +375,138 @@
     </work>
 
     <project>
+
 	    <items>
-           <item>
-                <title>Senior Developer / Erweiterung einer inhouse Enterprise Applikation</title>
+            <item>
+                <title>Senior Developer / Architekt</title>
                 <value>
-                    <list>                    
-                        <listitem>Erneuerung einer legacy inhouse Applikation (JavaEE)</listitem>   
-                        <listitem>Definition und Aufsetzen der Architektur und des Entwicklung-Stacks für ein Web-Frontend</listitem>   
+                    <list>
+                        <listitem>Kontinuierliche Weiterentwicklung von B2B-Applikationen</listitem>
+                        <listitem>Erneuerung und Modernisierung der Architektur und des Entwicklung-Stacks</listitem>
                         <listitem>Umsetzung des Web-Frontends und der REST-Schnittstellen</listitem>
-                        <listitem>Technologien: JavaScript (ECMAScript 2015), React, Flux (Alt.js), JavaEE, JBoss, JAX-RS</listitem>   
-                        <listitem>Kunde: Prodega / Transgourmet</listitem>   
-                        <listitem> April 2015 - aktuell</listitem>
+                        <listitem>Ablösung eines Android Clients mit einer Progressive Web Application</listitem>
+                        <listitem>Technologien: JavaScript, TypeScript, React, MobX, JavaEE, JBoss, Spring</listitem>
+                        <listitem>Kunde: Prodega / Transgourmet</listitem>
+                        <listitem> August 2017 - aktuell</listitem>
                     </list>
                 </value>
-           </item>    
+            </item>
+            <item>
+                <title>Schulungen im Bereich moderne Webentwicklung, JavaScript, Angular und React</title>
+                <value>
+                    <list>
+                        <listitem>Kunden: SBB, Mobiliar, UBS, Swisscard AECS, Postfinance, AXA Winterthur, INstitut für Geistiges Eigentum, BIT, Adesso, BSI, ELCA, IMS, Puzzle</listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Diverse Beratungen und Reviews im Umfeld von Frontend Projekten</title>
+                <value>
+                    <list>
+                        <listitem>Review eines Angular Projektes SEA Schliessystems</listitem>
+                        <listitem>Review eines Angular Projektes für das Institut für Geistiges Eigentum</listitem>
+                        <listitem>Review eines Angular Projektes für die Informatik der Berner Fachhochschule</listitem>
+                        <listitem>Technologieberatung für UIs für Maschinensteuerungen für Bruderer AG </listitem>
+                        <listitem>Review eines Frontend Projektes (Angular) im Bundesumfeld für Nexplore</listitem>
+                        <listitem>2018 - aktuell</listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Coach und Architekt</title>
+                <value>
+                    <list>
+                        <listitem>Neuentwicklung eines Web-Frontends für Mobile Clients für Endkunden</listitem>
+                        <listitem>Aufsetzen des Frontend-Projektes und der Architektur</listitem>
+                        <listitem>Umsetzung erster Features und Coaching des Teams</listitem>
+                        <listitem>Technologien: Angular, GraphQL, Spring, MongoDB</listitem>
+                        <listitem>Kunde: Die Schweizerische Mobiliar</listitem>
+                        <listitem> Juni 2019 - November 2019</listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Coach und Architekt</title>
+                <value>
+                    <list>
+                        <listitem>Neuentwicklung einer Front-Office Applikation im Versicherungsbereich</listitem>
+                        <listitem>Aufsetzen des Frontend-Projektes und der Architektur</listitem>
+                        <listitem>Umsetzung erster Features und Coaching des Teams</listitem>
+                        <listitem>Technologien: Angular, GraphQL, Spring, MongoDB</listitem>
+                        <listitem>Kunde: AXA Winterthur</listitem>
+                        <listitem> Januar 2019 - Dezember 2019</listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Reviewer / Consultant</title>
+                <value>
+                    <list>
+                        <listitem>Analyse und Review einer neuen Frontend-Architektur</listitem>
+                        <listitem>Codereview der Projekte</listitem>
+                        <listitem>Interviews und Workshops mit Teams</listitem>
+                        <listitem>Verfassen von Review Dokumenten</listitem>
+                        <listitem>Technologien: JavaScript, React</listitem>
+                        <listitem>Kunde: UBS</listitem>
+                        <listitem> April 2018 - März 2019</listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Senior Developer / Coach</title>
+                <value>
+                    <list>
+                        <listitem>Analyse und Modernisierung einer Versicherungs Applikation</listitem>
+                        <listitem>Reverse-Engineering von Legacy Code</listitem>
+                        <listitem>Erweiterung </listitem>
+                        <listitem>Coaching und Pairing mit Entwicklern</listitem>
+                        <listitem>Technologien: C++</listitem>
+                        <listitem>Kunde: AXA Winterthur</listitem>
+                        <listitem> Februar 2016 - Dezember 2016</listitem>
+                    </list>
+                </value>
+            </item>
+            <item>
+                <title>Senior Developer / Erweiterung einer inhouse Enterprise Applikation</title>
+                <value>
+                    <list>
+                        <listitem>Erneuerung einer legacy inhouse Applikation (JavaEE)</listitem>
+                        <listitem>Definition und Aufsetzen der Architektur und des Entwicklung-Stacks für ein Web-Frontend</listitem>
+                        <listitem>Umsetzung des Web-Frontends und der REST-Schnittstellen</listitem>
+                        <listitem>Technologien: JavaScript (ECMAScript 2015), React, Flux (Alt.js), JavaEE, JBoss, JAX-RS</listitem>
+                        <listitem>Kunde: Prodega / Transgourmet</listitem>
+                        <listitem> April 2015 - August 2017</listitem>
+                    </list>
+                </value>
+           </item>
            <item>
                 <title>Senior Developer/Architect in einem Web-Startup Projekt</title>
                 <value>
-                    <list>                    
-                        <listitem>Produktentwicklung mit einem Startup</listitem>   
-                        <listitem>Definition und Aufsetzen der Architektur und des Entwicklung-Stacks</listitem>   
+                    <list>
+                        <listitem>Produktentwicklung mit einem Startup</listitem>
+                        <listitem>Definition und Aufsetzen der Architektur und des Entwicklung-Stacks</listitem>
                         <listitem>Umsetzung des ersten Produkt-Releases</listitem>
-                        <listitem>Technologien: JavaScript, AngularJS, .NET, Windows Azure</listitem>   
-                        <listitem>Kunde: Softfactors.com</listitem>   
+                        <listitem>Technologien: JavaScript, AngularJS, .NET, Windows Azure</listitem>
+                        <listitem>Kunde: Softfactors.com</listitem>
                         <listitem>Oktober 2014 - März 2015</listitem>
                     </list>
                 </value>
-            </item>   
+            </item>
             <item>
                 <title>Software Architect eines klinisches Informationssystems</title>
                 <value>
-                    <list>                    
-                        <listitem>Produktentwicklung und Modernisierung</listitem>   
-                        <listitem>Koordination in einem verteilten Umfeld mit Teams in der Schweiz, Österreich, Deutschland und Polen</listitem>   
-                        <listitem>Java EE, JBoss, Spring, Eclipse RCP, Flex</listitem>   
+                    <list>
+                        <listitem>Produktentwicklung und Modernisierung</listitem>
+                        <listitem>Koordination in einem verteilten Umfeld mit Teams in der Schweiz, Österreich, Deutschland und Polen</listitem>
+                        <listitem>Java EE, JBoss, Spring, Eclipse RCP, Flex</listitem>
                         <listitem> August 2012 - Oktober 2014</listitem>
                     </list>
                 </value>
-            </item>              
+            </item>
             <item>
                 <title>Architekt für eine neue statistische Erhebungs-Applikation</title>
                 <value>
-                    <list>                    
+                    <list>
                         <listitem> Requirements engineering und platform engineering</listitem>
                         <listitem> Definition von Technologien und der Architektur </listitem>
                         <listitem> Schreiben von Spezifikationen nach Hermes</listitem>
@@ -427,12 +516,12 @@
                         <listitem> März 2012 - August 2012</listitem>
                     </list>
                 </value>
-            </item>             
+            </item>
 	        <item>
 	            <title>Anpassung einer grossen Team Foundation Server (TFS) Installation an den kundenspezifischen Software Delivery Prozess </title>
 	            <value>
 	                <list>
-	                    <listitem> Integration von Java/Eclipse/Maven mit TFS</listitem>		
+	                    <listitem> Integration von Java/Eclipse/Maven mit TFS</listitem>
 	                    <listitem> Kundenspezifische Anpassungen der Scrum Process Template</listitem>
 	                    <listitem> Design und Implementation von neuen kundenspezifischen Reports (TFS 2010, SSRS, SQL)</listitem>
 	                    <listitem> Design und Implementation von kundenspezifischen Projekt Dashboards (TFS 2010, SharePoint)</listitem>
@@ -441,7 +530,7 @@
 	                    <listitem> Juli 2011 - März 2012</listitem>
 	                </list>
 	            </value>
-	        </item>  
+	        </item>
 	        <item>
 	            <title>Pre-Sale Aktivitäten and Entwicklung von technischen Spezifikationen für verschiedene Projekte</title>
 	            <value>
@@ -453,12 +542,12 @@
 	                    <listitem> Juli 2011 - present</listitem>
 	                </list>
 	            </value>
-	        </item>	
+	        </item>
 	        <item>
 	            <title>Durchführung von Workshops für verschiedene Kunden-Teams</title>
 	            <value>
 	                <list>
-	                    <listitem> Agile Development Practices: TDD und BDD</listitem>	
+	                    <listitem> Agile Development Practices: TDD und BDD</listitem>
 	                    <listitem> Technische Workshops zur Einführung von neuen Technologien (NUnit, MSBuild, TeamCity, ReSharper ...)</listitem>
 	                    <listitem> Scrum und Agile Software Entwicklung, Agile Requirements Engineering</listitem>
 	                    <listitem> Mehrere Events im 2010 und 2011</listitem>
@@ -476,7 +565,7 @@
                         <listitem> November 2010 - Juni 2011</listitem>
                     </list>
                 </value>
-            </item>  
+            </item>
            <item>
                 <title>Entwicklung der Orchestration eines komplexen workflowbasierten Daten-Management-Systems</title>
                 <value>
@@ -488,7 +577,7 @@
                         <listitem> März 2010 - Juni 2011</listitem>
                     </list>
                 </value>
-            </item>             
+            </item>
             <item>
                 <title>System für die Planung und Administration von Schulen</title>
                 <value>
@@ -499,7 +588,7 @@
                         <listitem> Oktober 2009 - März 2010</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Migration des Builds einer produktiven legacy Applikation von Ant auf Maven</title>
                 <value>
@@ -507,11 +596,11 @@
                         <listitem> Grosser, organisch gewachsener legacy Build</listitem>
                         <listitem> J2EE, EJB 2.1, WebLogic, Oracle</listitem>
                         <listitem> Grosses produktives System in einem heterogenen Enterprise Umfeld </listitem>
-                        <listitem> Kunde: PostFinance - Projekt: EPA</listitem>    
-                        <listitem> Juni 2009 - August 2009</listitem>                    
+                        <listitem> Kunde: PostFinance - Projekt: EPA</listitem>
+                        <listitem> Juni 2009 - August 2009</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Implementierung eines neuen Reports für Kunden in einer bestehenden Finanzapplikaton</title>
                 <value>
@@ -520,11 +609,11 @@
                         <listitem> Erstellung von XML-Dokumenten mit JAXB, XSD</listitem>
                         <listitem> Spring, WebLogic, Oracle</listitem>
                         <listitem> Grosses produktives System in einem heterogenen Enterprise Umfeld </listitem>
-                        <listitem> Kunde: PostFinance - Projekt: AQS</listitem>        
-                        <listitem> Februar 2008 - Juni 2009</listitem>                  
+                        <listitem> Kunde: PostFinance - Projekt: AQS</listitem>
+                        <listitem> Februar 2008 - Juni 2009</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Erweiterung einer bestehenden Finanzapplikaton mit einer neuen Schnittstelle</title>
                 <value>
@@ -532,11 +621,11 @@
                         <listitem> Kommunikation über die EP2 Schnittstelle</listitem>
                         <listitem> J2EE, EJB 2.1, WebLogic, Oracle</listitem>
                         <listitem> Grosses produktives System in einem heterogenen Enterprise Umfeld </listitem>
-                        <listitem> Kunde: PostFinance - Projekt: EPA</listitem>      
+                        <listitem> Kunde: PostFinance - Projekt: EPA</listitem>
                         <listitem> Juni 2008 - Februar 2009</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Logistikanwendung zur Verwaltung von Druckaufträgen</title>
                 <value>
@@ -545,11 +634,11 @@
                         <listitem> SCRUM als Entwicklungsprozess</listitem>
                         <listitem> Anwendung von Model Driven Software Development (MDSD) </listitem>
                         <listitem> Integration von Legacy-Anwendungen</listitem>
-                        <listitem> Kunde: SBB (Schweizer Bahn)</listitem>  
-                        <listitem> Februar 2008 - Juni 2009</listitem>                        
+                        <listitem> Kunde: SBB (Schweizer Bahn)</listitem>
+                        <listitem> Februar 2008 - Juni 2009</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Gesamtlösung für Pensionskassen</title>
                 <value>
@@ -560,7 +649,7 @@
                         <listitem> Programmierung mit einem schwergewichtigen Framework </listitem>
                         <listitem> Integration von Legacy-Anwendungen</listitem>
                         <listitem> Datenzentriertes Design, basierend auf .NET-DataSets</listitem>
-                        <listitem> Dezember 2006 - Januar 2008</listitem>                        
+                        <listitem> Dezember 2006 - Januar 2008</listitem>
                     </list>
                 </value>
             </item>
@@ -573,8 +662,8 @@
                         <listitem>Überprüfung, Reviews und Benotung der Arbeiten</listitem>
                     </list>
                 </value>
-            </item>            
-         
+            </item>
+
             <item>
                 <title> Digitales Archivsystem für eine Fernsehstation</title>
                 <value>
@@ -595,7 +684,7 @@
                         <listitem> Zusammenarbeit mit externem Testing- und QA-Team </listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Setupstation für Qualitätskontrolle für Webmaschinen (On-Loom)</title>
                 <value>
@@ -612,7 +701,7 @@
                         <listitem> SW-Integration und Abnahme beim Kunden </listitem>
                     </list>
                 </value>
-            </item>                        
+            </item>
             <item>
                 <title>Datenbank für Programmplanung bei SFDRS, Erweiterung</title>
                 <value>
@@ -623,7 +712,7 @@
                         <listitem>Integration in ein bestehendes System</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Steuerungsplatform für Webmaschinen</title>
                 <value>
@@ -635,7 +724,7 @@
                         <listitem> Entwicklung des Systemkonzepts</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Grob- und Detailspezifikation für SwissTXT News Production System</title>
                 <value>
@@ -661,7 +750,7 @@
                         <listitem> Überprüfung der Dokumentation</listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
             <item>
                 <title>Qualitätssortierer für organische Stoffe</title>
                 <value>
@@ -671,7 +760,7 @@
                         <listitem> Hardware/Software-Codesign </listitem>
                     </list>
                 </value>
-            </item>            
+            </item>
              <item>
                 <title>Entwicklung von VOIP-Produkten (e-phone)</title>
                 <value>
@@ -683,7 +772,7 @@
                             Produkts </listitem>
                     </list>
                 </value>
-            </item>                       
+            </item>
             <item>
                 <title>Entwicklung eines Netzwerkprotokoll-Stacks für SIP </title>
                 <value>
@@ -700,26 +789,28 @@
 
     <knowledge>
         <list>
+            <listitem> Enterprise-Architectures </listitem>
+            <listitem> Classic OO-Design Patterns, Domain Driven Design, Patterns for Enterprise Applications</listitem>
+            <listitem> Object-Oriented Analysis &amp; Design </listitem>
+            <listitem> Continuous Integration </listitem>
+            <listitem> Test Driven Development, Behavior Driven Development, Specification by Example </listitem>
+            <listitem> Coaching and teaching teams</listitem>
+            <listitem> Technical lead of developers and teams </listitem>
             <listitem> Agile, Scrum , XP </listitem>
             <listitem> Workshops and negotiations with customers </listitem>
-            <listitem> Leading junior developers </listitem>
             <listitem> Writing specifications and time/effort estimations </listitem>
-            <listitem> Collaboration with outsourcing partners </listitem>            
-            <listitem> Object-Oriented Analysis &amp; Design </listitem>
-            <listitem> Classic OO-Design Patterns, Domain Driven Design, Patterns for Enterprise Applications</listitem>
-            <listitem> Enterprise-Architectures </listitem>
-            <listitem> Test Driven Development, Behavior Driven Development, Specification by Example </listitem>
-            <listitem> Continuous Integration </listitem>
+            <listitem> Collaboration with outsourcing partners </listitem>
         </list>
     </knowledge>
 
     <technology>
         <list>
-            <listitem> JavaScript / ECMAScript 2015 / TypeScript </listitem> 
+            <listitem> JavaScript / ECMAScript 2015+ / TypeScript </listitem>
+            <listitem> Angular, React, Vue.js </listitem>
+            <listitem> Java / Kotlin / Java EE / Spring </listitem>
             <listitem> .NET / C# </listitem>
-            <listitem> Java / Java EE </listitem>
             <listitem> SQL / T-SQL / PL-SQL </listitem>
-            <listitem> iOS / Objective-C</listitem>
+            <listitem> iOS / Objective-C / Swift</listitem>
         </list>
     </technology>
 </cv>
